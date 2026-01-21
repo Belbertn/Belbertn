@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Belbertn
-- 👀 I’m interested in GameDev and mobile app dev
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in GameDev
+- 🌱 I’m currently learning C# and UE5
 - 📫 How to reach me belbert95@me.com
 
 <!---
