@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Belbertn
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C# and UE5
+- 🌱 I’m currently learning C# and Rust
 - 📫 How to reach me belbert95@me.com
 
 <!---
